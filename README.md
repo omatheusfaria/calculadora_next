@@ -25,7 +25,7 @@ Siga os passos abaixo para executar o projeto em seu ambiente local:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/omatheusfaria/calculadora_next.git
     cd <NOME_DO_DIRETORIO>
     ```
 
@@ -61,5 +61,5 @@ Siga os passos abaixo para executar o projeto em seu ambiente local:
 -   `app/styles/`: Contém os arquivos de estilização CSS Modules.
 
 ## Autor
-
-Este projeto foi desenvolvido por um aluno como trabalho para a disciplina de Programação Script, ministrada pelo professor [Nome do Professor].
+Desenvolvido por **Matheus Faria**.  
+> Projeto com fins educacionais. Desenvolvido como trabalho para a disciplina de Programação Script, ministrada pelo professor Leonardo Raiz.
