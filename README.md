@@ -1,10 +1,10 @@
-# Calculadora Simples em Next.js
+# Calculadora Simples em Next.js 🧮
 
-## Descrição
+## Descrição 📝
 
 Este é um projeto de uma calculadora simples desenvolvida como parte da disciplina de Programação Script. A aplicação foi criada com Next.js e React, e implementa as funcionalidades básicas de uma calculadora, como operações aritméticas, manipulação de números decimais e mudança de sinal.
 
-## Funcionalidades
+## Funcionalidades ✨
 
 -   **Operações básicas:** Adição, Subtração, Multiplicação e Divisão.
 -   **Limpeza:** Botão "AC" para limpar todos os dados e reiniciar a calculadora.
@@ -12,14 +12,14 @@ Este é um projeto de uma calculadora simples desenvolvida como parte da discipl
 -   **Troca de sinal:** Botão "+/-" para alternar entre valores positivos e negativos.
 -   **Visor de expressão:** Mostra a operação que está sendo realizada.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 💻
 
 -   **Next.js:** Framework React para renderização no lado do servidor e geração de sites estáticos.
 -   **React:** Biblioteca para construção de interfaces de usuário.
 -   **CSS Modules:** Para estilização de componentes de forma modular e isolada.
 -   **ESLint:** Ferramenta para linting e padronização do código.
 
-## Como Executar o Projeto
+## Como Executar o Projeto 🚀
 
 Siga os passos abaixo para executar o projeto em seu ambiente local:
 
@@ -41,7 +41,7 @@ Siga os passos abaixo para executar o projeto em seu ambiente local:
 
 4.  Abra [http://localhost:3000/calculator](http://localhost:3000/calculator) no seu navegador para ver a calculadora.
 
-## Estrutura do Projeto
+## Estrutura do Projeto 📂
 
 ```
 /app
@@ -60,6 +60,6 @@ Siga os passos abaixo para executar o projeto em seu ambiente local:
 -   `app/components/`: Armazena os componentes React reutilizáveis.
 -   `app/styles/`: Contém os arquivos de estilização CSS Modules.
 
-## Autor
+## Autor 👨‍💻
 Desenvolvido por **Matheus Faria**.  
 > Projeto com fins educacionais. Desenvolvido como trabalho para a disciplina de Programação Script, ministrada pelo professor Leonardo Raiz.
